@@ -1,0 +1,22 @@
+{
+    "name": "LeanGUI",
+    "references": [
+        "LeanCommon",
+        "LeanTransition"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "PS4",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
